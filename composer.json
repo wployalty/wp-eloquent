@@ -4,8 +4,8 @@
     "keywords": ["wordpress", "plugin", "orm", "eloquent", "sql"],
     "homepage": "https://github.com/tareq1988/wp-eloquent",
     "require": {
-        "illuminate/database": "v5.8.36",
-        "illuminate/pagination": "v5.8.36"
+        "illuminate/database": "5.8.36",
+        "illuminate/pagination": "5.8.36"
     },
     "license": "GPL-2.0-or-later",
     "minimum-stability": "stable",
