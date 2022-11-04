@@ -8,6 +8,7 @@
         "illuminate/pagination": "v5.8.36"
     },
     "license": "GPL-2.0-or-later",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Tareq Hasan",
